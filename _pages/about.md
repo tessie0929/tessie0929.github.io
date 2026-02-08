@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! I'm Zhen."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a year 4 student from  [Edinburgh Medical School](https://biomedical-sciences.ed.ac.uk/), [The University of Edinburgh](https://www.ed.ac.uk/). I am doing my Honour year
+I am a year 4 student from  [Edinburgh Medical School](https://biomedical-sciences.ed.ac.uk/), [The University of Edinburgh](https://www.ed.ac.uk/). I am doing my Honour year in [BSc. Biomedical and Health Applications of Data Science](https://www.drps.ed.ac.uk/24-25/dpt/utbscbhads1f.htm).
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
