@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc. Health Data Analytics and Machine Learning, 2026 - 2027 (Expected)
+* BSc. Biomedical and Health Applications of Data Science (Hons), The University of Edinburgh, 2022 - 2026 (Expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Data Analytics Intern in Local Hospital                    Jun 2024 – Aug 2024 | China
+  * Built SQL/Excel extracts and performed routine data cleaning + QA (duplicates, missingness, date logic) for primary care operational datasets.
+  * Supported the refresh and maintenance of Power BI dashboards and weekly KPI packs under analyst lead guidance.
+  * Monitored the reporting inbox, triaged and logged data requests, and updated reporting templates with the analytics team.
+  * Prepared brief notes and visuals for team meetings, documenting metric definitions and assumptions to keep reporting consistent across updates.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Laboratory Assistant Intern in County Hospital             Dec 2023 – Jan 2024 | China
+  * Rotated in the microbiology, immunology, biochemistry, and transfusion departments of the laboratories, supported specimen reception and pre-analytical processing for biochemistry testing.
+  * Processed and labelled patient samples and operated laboratory information systems to ensure accurate and timely reporting of results.
+  * Assisted with basic data analysis, result verification and quality control under supervision of senior laboratory staff.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data & Programming: R, Python, SQL (MySQL), Git/Github
+* Reporting & BI: Excel, Power BI (Beginner)
+* Laboratory Skills: PCR, ELISA, Western blot, bacterial culture
+* Creative Tools: PowerPoint, Photoshop, Procreate, Procreate Dreams, Adobe Animate
+* Languages: English (IELTS:7.5), Mandarin (Native), Japanese (N3).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
